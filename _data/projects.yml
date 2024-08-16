@@ -1,16 +1,19 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Dinas KUMKM JABAR
+- project: Dinas KUMKM JABAR
+  role: Tech Lead
+  duration: 2016
+  description: Led the tech team for Project PON Jabar, providing oversight and training for hospitality services app usage.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Dinas Pendidikan Jabar
+- project: Dinas Pendidikan Jabar
+  role: Software Engineer
+  duration: 2017 &mdash; 2018
+  description: Developed student registration admin panel and school data admin panel, ensuring accuracy and efficiency in data management.
+
+# Dinas Pendidikan Kota Bandung
+- project: Dinas Pendidikan Kota Bandung
+  role: Software Engineer
+  duration: 2015 &mdash; 2018
+  description: Created student registration admin panel and school data admin panel, streamlining administrative processes.

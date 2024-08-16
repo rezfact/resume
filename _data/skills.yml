@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Programming Languages
+- skill: Programming Languages
+  description: Proficient in a variety of programming languages including Node.js, Python, Java, PHP, and .NET. Extensive experience in developing server-side applications, enterprise-level solutions, and web services using these languages.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Serverless
+- skill: Serverless
+  description: Expertise in developing serverless applications, particularly with AWS Lambda, for efficient, scalable, and cost-effective solutions.
+
+# Databases (SQL, NoSQL)
+- skill: Databases
+  description: Strong knowledge of both SQL (PostgreSQL, Oracle) and NoSQL (Redis) databases, with experience in database design, optimization, and management.
+
+# APIs (RESTful, GraphQL, gRPC)
+- skill: APIs
+  description: Proficient in designing and implementing RESTful APIs, GraphQL, and gRPC services, ensuring efficient and scalable communication between services.
+
+# Cloud Platforms (AWS, Azure)
+- skill: Cloud Platforms
+  description: Extensive experience with AWS and Azure, leveraging cloud services for deployment, scaling, and management of applications.
+
+# Containers & Orchestration (Docker, Kubernetes)
+- skill: Containers & Orchestration
+  description: Skilled in containerizing applications using Docker and orchestrating deployments with Kubernetes, ensuring efficient and reliable application scaling.
+
+# Version Control
+- skill: Version Control
+  description: Proficient in Git for source code management, with experience in branching, merging, and maintaining code repositories.
+
+# Leadership & People Management
+- skill: Leadership & People Management
+  description: Experienced in leading and coaching teams, fostering a collaborative work environment, and mentoring individuals to enhance their skills and career growth. Skilled in decision-making, conflict resolution, and aligning team efforts with organizational goals.
